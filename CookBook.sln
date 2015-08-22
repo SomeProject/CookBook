@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookBook", "CookBook\CookBook.csproj", "{DF260362-BF2A-4425-A60C-315D3E251939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{ECA46EC3-73EC-454D-BF4E-B6376C8063E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF260362-BF2A-4425-A60C-315D3E251939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF260362-BF2A-4425-A60C-315D3E251939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF260362-BF2A-4425-A60C-315D3E251939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF260362-BF2A-4425-A60C-315D3E251939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA46EC3-73EC-454D-BF4E-B6376C8063E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA46EC3-73EC-454D-BF4E-B6376C8063E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA46EC3-73EC-454D-BF4E-B6376C8063E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA46EC3-73EC-454D-BF4E-B6376C8063E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
